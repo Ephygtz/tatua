@@ -1,7 +1,8 @@
 # tatua
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
+See. Capture. Tweet city's ill.
+
+Tatua is a mobile/web app platform that seeks to capture societies ill, 
 
 ## Build & development
 
