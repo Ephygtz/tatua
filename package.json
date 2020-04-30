@@ -17,7 +17,7 @@
     "body-parser" : "^1.12.2",
     "express" : "^4.12.3",
     "oauth" : "^0.9.12",
-    "qs" : "^2.4.1"
+    "qs" : "^6.9.3"
     },
   "bugs": {
     "url": "https://github.com/Ephygtz/tatua/issues"
